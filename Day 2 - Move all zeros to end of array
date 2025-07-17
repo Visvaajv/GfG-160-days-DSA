@@ -2,7 +2,6 @@ import java.util.Arrays;
 
 class GfG {
 
-    // Function which pushes all zeros to end of array
     static void pushZerosToEnd(int[] arr) {
 
         // Pointer to track the position for next non-zero element
